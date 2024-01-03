@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bac7f69d61c42074f962a0c41ca93e07, type: 3}
+  m_Name: Lvl Settings
+  m_EditorClassIdentifier: 
+  levelSelectorPrefab: {fileID: 8698849656292119467, guid: 2f9eb022698598a4d9f6b8e2c3669c2c, type: 3}
+  lvls:
+  - sprite: {fileID: -621292870, guid: 4feb9f4070248ea48abe7d0fcbbd6555, type: 3}
+  - sprite: {fileID: 896201326, guid: 4feb9f4070248ea48abe7d0fcbbd6555, type: 3}
+  - sprite: {fileID: -1134584488, guid: 4feb9f4070248ea48abe7d0fcbbd6555, type: 3}
+  - sprite: {fileID: -1389776017, guid: 4feb9f4070248ea48abe7d0fcbbd6555, type: 3}
+  - sprite: {fileID: 84382822, guid: 4feb9f4070248ea48abe7d0fcbbd6555, type: 3}
+  - sprite: {fileID: -589324395, guid: 4feb9f4070248ea48abe7d0fcbbd6555, type: 3}
+  - sprite: {fileID: 457586612, guid: 4feb9f4070248ea48abe7d0fcbbd6555, type: 3}
+  - sprite: {fileID: -1291082229, guid: 4feb9f4070248ea48abe7d0fcbbd6555, type: 3}
+  - sprite: {fileID: -1211936290, guid: 4feb9f4070248ea48abe7d0fcbbd6555, type: 3}
+  - sprite: {fileID: -463753006, guid: 4feb9f4070248ea48abe7d0fcbbd6555, type: 3}
+  - sprite: {fileID: -1240808110, guid: 4feb9f4070248ea48abe7d0fcbbd6555, type: 3}
+  - sprite: {fileID: 1349741034, guid: 4feb9f4070248ea48abe7d0fcbbd6555, type: 3}
+  - sprite: {fileID: 1546835935, guid: 4feb9f4070248ea48abe7d0fcbbd6555, type: 3}
+  - sprite: {fileID: 1630717455, guid: 4feb9f4070248ea48abe7d0fcbbd6555, type: 3}
+  - sprite: {fileID: 1579592011, guid: 4feb9f4070248ea48abe7d0fcbbd6555, type: 3}
+  - sprite: {fileID: 565069385, guid: 4feb9f4070248ea48abe7d0fcbbd6555, type: 3}
+  - sprite: {fileID: -275061745, guid: 4feb9f4070248ea48abe7d0fcbbd6555, type: 3}
+  - sprite: {fileID: -1898356765, guid: 4feb9f4070248ea48abe7d0fcbbd6555, type: 3}
+  - sprite: {fileID: -430544838, guid: 4feb9f4070248ea48abe7d0fcbbd6555, type: 3}
+  - sprite: {fileID: -1706955357, guid: 4feb9f4070248ea48abe7d0fcbbd6555, type: 3}
